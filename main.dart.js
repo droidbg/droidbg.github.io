@@ -93293,7 +93293,7 @@ if(h==null)h="Instructions"
 h=A.bK(h,l,l,l,l,A.et(l,l,l,l,l,l,l,l,A.b9C().$0().d,l,l,25,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l,l,l)
 s=A.dv(m.gPf()!==0?A.alL($.zF().gZ7(),new A.ayS(m,j)):l,l,30)
 r=new A.U(new Float64Array(2))
-r.aD(250,350)
+r.aD(95,346)
 r=A.dv(A.arH(A.arG(4,0.2,r),"plastic_ins.png"),100,100)
 q=i?l:k.gYv()
 p=t.p
